@@ -1,5 +1,9 @@
-硬件管理系统-ssm-mybatis-plus-adminLte-datatable实现查询
+## 硬件管理系统-ssm-mybatis-plus-adminLte-datatable实现查询
+
+[效果图](/indexshow.png)
+
 先出配置讲起,因为小编使用了baomidou的mybatisplus，所以有一些mybatis的配置不需要在pom.xml里面写(mybatisplus已经进行了管理)，多写会报错
+
 使用mybatisplus下面的配置必须写
 ```
 		<dependency>
